@@ -1,4 +1,4 @@
-**Name:** Leeza Lodha.
+**Name:** Leeza Lodha/n
 **Company:** CODETECH IT SOLUTIONS.
 **ID:** CT6WDS622.
 **Domain:** ARTIFICAL INTELLIGENCE.
