@@ -1,8 +1,8 @@
-**Name:** Leeza Lodha
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT6WDS622
-**Domain:** ARTIFICAL INTELLIGENCE
-**Duration:** JUNE 25th, 2024 to AUGUST 10th, 2024
+**Name:** Leeza Lodha.
+**Company:** CODETECH IT SOLUTIONS.
+**ID:** CT6WDS622.
+**Domain:** ARTIFICAL INTELLIGENCE.
+**Duration:** JUNE 25th, 2024 to AUGUST 10th, 2024.
 
 
 ## Overview of the Project 
